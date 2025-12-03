@@ -27,10 +27,12 @@
 
 #
 <h3>📧Contato Profissional</h3>
-<a href="https://www.linkedin.com/in/carolinarlima/">
-  <img height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-</a>
-<a href="mailto:carolinarlima@outlook.com">
-  <img height="30" widht="40" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Microsoft_Outlook_new_logo.svg" alt="Email">
-</a>
+<div>
+<a href="https://www.youtube.com/@carauu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/carauu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/carauu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:carolinarlima@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carolinarlima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
           
