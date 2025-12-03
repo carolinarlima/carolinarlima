@@ -18,12 +18,15 @@
 </div>
 
 #
+
 <h3>Certificados</h3>
-<a href:"https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link"></a>
+<a href="https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link">
+
+#
 
 <div>
 <h3>📊Estatísticas</h3> 
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/carolinarlima">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarlima&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinarlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
