@@ -1,22 +1,13 @@
 # 👩🏻‍💻 Carolina Lima
-**`✨IT Technician and Dev Full-Stack✨`**
-<h3>💻 console.log("Buscando Oportunidades em Desenvolvimento Full-Stack");</h3>
+**`✨Dev Full-Stack✨`**
+<h2>💻 Buscando Oportunidades em Desenvolvimento Full-Stack;</h2>
 
-<table>
-  <tr>
-    <td align="left">
-      <p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base robusta de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
+<div>
+       <p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base robusta de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
        habilidades em resolução de problemas complexos, gestão de sistemas e suporte técnico</p>
         <p>Atualmente, estou imersa no estudo e desenvolvimento de projetos em:<br>
-        -> Desenvolvimento Full-Stack: HTML, CSS, JavaScript, Python e PHP; <br>
-        -> Inteligência Artificial: Com foco especial em projetos de Agentes de IA;<br>
-        -> Cibersegurança: Explorando Pentesting e Ethical Hacking como área de interesse e estudo complementar.</p>
-    </td>
-    <td align="right">
-  <img src="https://i.pinimg.com/736x/af/70/8f/af708fadc4436b0d82df2334bd63ad17.jpg" alt="Lain" width="400"/>
-    </td>
-  </tr>
-</table>
+        -> Desenvolvimento Full-Stack: HTML, CSS, JavaScript; </p>
+</div>
 
 <div text-align="center">
 <h3>🤖 Linguagens e Tecnologias</h3>
