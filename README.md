@@ -20,7 +20,7 @@
 #
 
 <h3>Certificados</h3>
-<a href="https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link">
+<a href="https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link">Meus Certificados</a>
 
 #
 
