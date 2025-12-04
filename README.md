@@ -20,8 +20,9 @@
 #
 
 <h3>📃Certificados</h3>
-[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link)
-
+<a href="https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link">
+<img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion">
+</a>
 
 #
 
