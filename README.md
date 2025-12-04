@@ -19,9 +19,12 @@
 
 #
 
-<h3>📃Certificados</h3>
+<h3>📃Certificados e Cursos</h3>
 <a href="https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link">
 <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion">
+</a>
+<a href="https://cursos.alura.com.br/user/carolinarlima25">
+<img src="https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff">
 </a>
 
 #
