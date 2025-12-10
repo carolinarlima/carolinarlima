@@ -32,9 +32,8 @@
 
 <div>
 <h3>📊Estatísticas</h3> 
-<a href="https://github.com/carolinarlima">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarlima&layout=compact&langs_count=7&theme=dracula"/>http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=tokyonight>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinarlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolinarlima&theme=tokyonight>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=tokyonight" alt="General stats badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolinarlima&theme=tokyonight" alt="Top languages by commit badge"/>
 </div>
 
 #
