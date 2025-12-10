@@ -8,12 +8,17 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=%F0%9F%92%BBBuscando+oportunidade+como+Dev!" alt="Typing SVG" /></a></a>
 <div>
+       <div>
        <p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base robusta de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
        habilidades em resolução de problemas complexos, gestão de sistemas e suporte técnico</p>
         <p>Atualmente, estou imersa no estudo e desenvolvimento de projetos com a Alura em:<br>
         HTML, CSS e JavaScript e React.</p>
+       </div>
+       <div>
+              <img height="500" widht="500" src="https://i.pinimg.com/originals/96/25/1e/96251e36ce717d55f4c61a081ab9180a.gif" wei>    
+       </div>
 </div>   
-  <img height="100" widht="100" src="https://i.pinimg.com/originals/96/25/1e/96251e36ce717d55f4c61a081ab9180a.gif" wei>     
+ 
 
 <table>
        <tr>
