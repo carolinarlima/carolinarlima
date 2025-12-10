@@ -7,7 +7,7 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%92%BB+Buscando+Oportunidades+como+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%92%BB+Buscando+Oportunidades+como+Dev!" alt="Typing SVG" /></a>
 <div>
        <p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base robusta de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
        habilidades em resolução de problemas complexos, gestão de sistemas e suporte técnico</p>
@@ -17,7 +17,7 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%A4%96+Linguagens+e+Tecnologias" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%A4%96+Linguagens+e+Tecnologias:" alt="Typing SVG" /></a>
 <div text-align="center">
 <img height="30" widht="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="30" widht="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -27,7 +27,7 @@
 </div>
 
 #
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Certificados+e+Cursos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Certificados+e+Cursos:" alt="Typing SVG" /></a>
 <div>
 <a href="https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link">
 <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion">
@@ -39,7 +39,7 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%93%8AEstat%C3%ADsticas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%93%8AEstat%C3%ADsticas:" alt="Typing SVG" /></a>
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=tokyonight" alt="General stats badge"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolinarlima&theme=tokyonight" alt="Top languages by commit badge"/>
@@ -47,7 +47,7 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Contato+Profissional" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Contato+Profissional:" alt="Typing SVG" /></a>
 <div>
 <a href="https://www.youtube.com/@carauu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/_carauu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
