@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=30&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Carolina+Lima!" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=30&pause=1000&color=AC44FF&multiline=true&repeat=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Carolina+Lima!" alt="Typing SVG" /></a> <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Bem-Vind%F0%9F%8E%88s+ao+meu+GitHub" alt="Typing SVG" /></a>
 
 #
@@ -7,7 +7,7 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%92%BB+Buscando+Oportunidades+como+Dev!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=%F0%9F%92%BBBuscando+oportunidade+como+Dev!" alt="Typing SVG" /></a></a>
 <div>
        <p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base robusta de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
        habilidades em resolução de problemas complexos, gestão de sistemas e suporte técnico</p>
