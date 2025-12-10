@@ -1,6 +1,6 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Carolina+Lima!;Bem-Vind%F0%9F%8E%88s+ao+meu+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Carolina+Lima!;Bem-Vind%F0%9F%8E%88s+ao+meu+GitHub" alt="Typing SVG" /></a>
 **`✨Dev Full-Stack✨`**
-<h2>💻 Buscando Oportunidades em Desenvolvimento Full-Stack;</h2>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%92%BB+Buscando+Oportunidades+como+Desenvolvedora+Full+Stack" alt="Typing SVG" /></a>
 
 <div>
        <p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base robusta de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
