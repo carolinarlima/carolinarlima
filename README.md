@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Carolina Lima
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&center=true&multiline=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Carolina+Lima!;Bem-Vind%F0%9F%8E%88s+ao+meu+GitHub" alt="Typing SVG" /></a>
 **`✨Dev Full-Stack✨`**
 <h2>💻 Buscando Oportunidades em Desenvolvimento Full-Stack;</h2>
 
