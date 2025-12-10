@@ -1,8 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Carolina+Lima!;Bem-Vind%F0%9F%8E%88s+ao+meu+GitHub" alt="Typing SVG" /></a>
 
-<div>
+#
+
 **`✨Dev Full-Stack✨`**
-</div>
+
+#
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%92%BB+Buscando+Oportunidades+como+Dev" alt="Typing SVG" /></a>
 <div>
@@ -11,6 +13,8 @@
         <p>Atualmente, estou imersa no estudo e desenvolvimento de projetos com a Alura em:<br>
         -> HTML, CSS e JavaScript e React.</p>
 </div>
+
+#
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%A4%96+Linguagens+e+Tecnologias" alt="Typing SVG" /></a>
 <div text-align="center">
@@ -33,11 +37,14 @@
 </div>
 
 #
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%93%8AEstat%C3%ADsticas" alt="Typing SVG" /></a>
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=tokyonight" alt="General stats badge"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolinarlima&theme=tokyonight" alt="Top languages by commit badge"/>
 </div>
+
+#
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Contato+Profissional" alt="Typing SVG" /></a>
 <div>
