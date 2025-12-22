@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Bem-Vind%F0%9F%8E%88s+ao+meu+GitHub" alt="Typing SVG" /></a>
 
 
-**`✨Dev Full-Stack✨`**
+**`✨Dev Front-End✨`**
 
 #
 
