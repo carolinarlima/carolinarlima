@@ -32,9 +32,9 @@
 #
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Certificados+,+Cursos+e+Projetos:" alt="Typing SVG" /></a><br>
-![Notion(https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link)
-![Alura(https://img.shields.io/badge/Alura-17222F?style=for-the-badge&logo=alura&logoColor=00C86F)](https://cursos.alura.com.br/user/carolinarlima25)
-![Codepen(https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/carolinarlima)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link)
+[![Alura](https://img.shields.io/badge/Alura-17222F?style=for-the-badge&logo=alura&logoColor=00C86F)](https://cursos.alura.com.br/user/carolinarlima25)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/carolinarlima)
 
 #
 
@@ -47,9 +47,7 @@
 #
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Contato+Profissional:" alt="Typing SVG" /></a>
-<div>
-<a href = "mailto:carolinarlima@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolinarlima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carolinarlima@outlook.com)
 
           
