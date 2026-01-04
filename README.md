@@ -27,18 +27,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Certificados+e+Cursos:" alt="Typing SVG" /></a>
-<div>
-<a href="https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link">
-<img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Notion">
-</a>
-<a href="https://cursos.alura.com.br/user/carolinarlima25">
-<img src="https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff">
-</a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Certificados+,+Cursos+e+Projetos:" alt="Typing SVG" /></a><br>
+![Notion(https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link)
+![Alura(https://img.shields.io/badge/Alura-17222F?style=for-the-badge&logo=alura&logoColor=00C86F)](https://cursos.alura.com.br/user/carolinarlima25)
+![Codepen(https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/carolinarlima)
 
 #
 
