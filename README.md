@@ -15,7 +15,7 @@
         HTML, CSS e JavaScript e React.</p>
        </div>
        <div>
-              <img height="500" widht="400" src="https://i.pinimg.com/736x/a6/cc/13/a6cc137eeec52b55e8d00876b05b2d60.jpg" wei>    
+              <img height="500" widht="200" src="https://i.pinimg.com/736x/a6/cc/13/a6cc137eeec52b55e8d00876b05b2d60.jpg" wei>    
        </div>
 </div>   
 
