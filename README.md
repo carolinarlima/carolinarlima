@@ -15,7 +15,7 @@
         HTML, CSS e JavaScript e React.</p>
        </div>
        <div>
-              <img height="500" widht="500" src="https://i.pinimg.com/originals/96/25/1e/96251e36ce717d55f4c61a081ab9180a.gif" wei>    
+              <img height="500" widht="500" src="https://i.pinimg.com/736x/a3/32/cc/a332cc030b23df6da88b8477135dd61e.gif" wei>    
        </div>
 </div>   
 
