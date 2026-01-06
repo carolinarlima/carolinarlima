@@ -14,7 +14,7 @@ habilidades em: resolução de problemas complexos, gestão de sistemas e suport
 - Carreira UI Design.<br>
 Entre outros cursos e formações da plataforma.
 <br>
-<img height="300" widht="300" src="https://i.pinimg.com/736x/a6/cc/13/a6cc137eeec52b55e8d00876b05b2d60.jpg" wei>
+<img height="400" widht="400" src="https://i.pinimg.com/736x/c7/6d/f4/c76df40aeb819878fca5289fa5efbf98.jpg" wei>
 
 # 
 
