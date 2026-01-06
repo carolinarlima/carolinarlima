@@ -40,8 +40,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%93%8AEstat%C3%ADsticas:" alt="Typing SVG" /></a>
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=midnight_purple" alt="General stats badge"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolinarlima&theme=midnight_purple" alt="Top languages by repo"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=jolly" alt="General stats badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolinarlima&theme=jolly" alt="Top languages by repo"/>
 </div>
 
 #
