@@ -14,6 +14,15 @@ HTML, CSS, JavaScript e React.<br>
 <img height="300" widht="300" src="https://i.pinimg.com/736x/a6/cc/13/a6cc137eeec52b55e8d00876b05b2d60.jpg" wei>
 
 # 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%93%8AEstat%C3%ADsticas:" alt="Typing SVG" /></a>
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=jolly" alt="General stats badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolinarlima&theme=jolly" alt="Top languages by repo"/>
+</div>
+
+#
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%A4%96+Linguagens+e+Tecnologias:" alt="Typing SVG" /></a>
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,14 +31,6 @@ HTML, CSS, JavaScript e React.<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-#
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%93%8AEstat%C3%ADsticas:" alt="Typing SVG" /></a>
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=jolly" alt="General stats badge"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolinarlima&theme=jolly" alt="Top languages by repo"/>
-</div>
 
 #
 
