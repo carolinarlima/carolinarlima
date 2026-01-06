@@ -6,18 +6,12 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=%F0%9F%92%BBBuscando+oportunidade+como+Dev!" alt="Typing SVG" /></a></a>
-<div>
-       <div>
-       <p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base robusta de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
-       habilidades em resolução de problemas complexos, gestão de sistemas e suporte técnico</p>
-        <p>Atualmente, estou imersa no estudo e desenvolvimento de projetos com a Alura em:<br>
-        HTML, CSS e JavaScript e React.</p>
-       </div>
-       <div>
-              <img height="300" widht="300" src="https://i.pinimg.com/736x/a6/cc/13/a6cc137eeec52b55e8d00876b05b2d60.jpg" wei>    
-       </div>
-</div>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=%F0%9F%92%BBBuscando+oportunidade+como+Dev!" alt="Typing SVG" /></a><br>
+<p>Sou formada em Análise e Desenvolvimento de Sistemas e trago uma base de mais de 10 anos de experiência como técnica de informática, onde desenvolvi fortes       
+habilidades em resolução de problemas complexos, gestão de sistemas e suporte técnico</p>
+<p>Atualmente, estou imersa no estudos e desenvolvimento de projetos com a Alura em:<br>
+HTML, CSS e JavaScript e React.<br>
+<img height="300" widht="300" src="https://i.pinimg.com/736x/a6/cc/13/a6cc137eeec52b55e8d00876b05b2d60.jpg" wei>
 
 # 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%A4%96+Linguagens+e+Tecnologias:" alt="Typing SVG" /></a>
@@ -31,18 +25,18 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Certificados+,+Cursos+e+Projetos:" alt="Typing SVG" /></a><br>
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link)
-[![Alura](https://img.shields.io/badge/Alura-17222F?style=for-the-badge&logo=alura&logoColor=00C86F)](https://cursos.alura.com.br/user/carolinarlima25)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/carolinarlima)
-
-#
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%93%8AEstat%C3%ADsticas:" alt="Typing SVG" /></a>
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinarlima&theme=jolly" alt="General stats badge"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolinarlima&theme=jolly" alt="Top languages by repo"/>
 </div>
+
+#
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Certificados+,+Cursos+e+Projetos:" alt="Typing SVG" /></a><br>
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link)
+[![Alura](https://img.shields.io/badge/Alura-17222F?style=for-the-badge&logo=alura&logoColor=00C86F)](https://cursos.alura.com.br/user/carolinarlima25)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/carolinarlima)
 
 #
 
