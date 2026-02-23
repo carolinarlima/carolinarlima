@@ -61,14 +61,17 @@ Estou imersa no desenvolvimento de projetos e formações pela **Alura**, focand
 ---
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FFFFFF&multiline=true&width=435&lines=%F0%9F%93%9ACertificados+,+Cursos+e+Projetos:" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=FFFFFF&width=435&lines=+%F0%9F%93%9A+Certificados%2C+Cursos+e+Projetos%3A" alt="Typing SVG" /></a>
 </p>
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Carolina-Lima-2be2a5e724d480a7875dca9725b0ff3f?source=copy_link)
 [![Alura](https://img.shields.io/badge/Alura-17222F?style=for-the-badge&logo=alura&logoColor=00C86F)](https://cursos.alura.com.br/user/carolinarlima25)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/carolinarlima)
+
+---
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=FFFFFF&width=435&lines=+%F0%9F%8E%93+Bootcamps:" alt="Typing SVG" /></a><br>
+<img src="https://private-user-images.githubusercontent.com/247461791/552466961-f352e0ed-c679-4164-b791-d6fbd42befcd.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4ODcxNDksIm5iZiI6MTc3MTg4Njg0OSwicGF0aCI6Ii8yNDc0NjE3OTEvNTUyNDY2OTYxLWYzNTJlMGVkLWM2NzktNDE2NC1iNzkxLWQ2ZmJkNDJiZWZjZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDIyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAyMjNUMjI0NzI5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTJjYjZlNWQxOTczOTg3Nzc0YTg2NDM4ZGM2NjA4YzZjYmZiMWJkYzcwOGE2MGViMmIwZmVjNDhlOGU0ZDdmNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.fwEMKC7kXNzQhAN4VjRj6mwPmPHynMxyZEexYcQKQfI" alt="Bootcamp DIO" width="80px" heigth="80px">
 
 ---
 
