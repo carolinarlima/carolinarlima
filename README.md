@@ -35,7 +35,7 @@ Estou imersa no desenvolvimento de projetos e formações pela **Alura**, focand
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%A4%96+IA+%26+Produtividade"    alt="Typing SVG" /></a>
 </p>
 
-<p>Nesta seção, destaco projetos onde aplico **Engenharia de Prompt** e IA para otimizar processos e criar soluções inteligentes:</p>
+Nesta seção, destaco projetos onde aplico **Engenharia de Prompt** e IA para otimizar processos e criar soluções inteligentes:
 
 * **[Mapeamento de Carreira com IA](https://github.com/carolinarlima/dio-copilot-prompts)**: Um laboratório focado em utilizar o GitHub Copilot para entrevistar o usuário e diagnosticar trilhas de carreira tech baseadas em interesses pessoais.
 * **[IA Entrevistador](https://github.com/carolinarlima/dio-ia-entrevistador)**: Um simulador de entrevistas impulsionado por IA que analisa respostas e fornece feedback imediato para candidatos em preparação.
