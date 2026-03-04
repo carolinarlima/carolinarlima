@@ -41,6 +41,36 @@ Nesta seção, destaco projetos onde aplico **Engenharia de Prompt** e IA para o
 * **[IA Entrevistador](https://github.com/carolinarlima/dio-ia-entrevistador)**: Um simulador de entrevistas impulsionado por IA que analisa respostas e fornece feedback imediato para candidatos em preparação.
 
 ---
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=AC44FF&multiline=true&width=435&lines=💼+Projetos+Freelance" alt="Typing SVG" />
+  </a>
+</p>
+
+Além dos meus estudos, atuo no desenvolvimento de soluções sob medida para empresas e empreendedores, focando em performance, UI/UX e resultados:
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/PROJETO-XSHARK%20SISTEMAS-black?style=for-the-badge&logo=shark" />
+      <p><b>Landing Page Corporativa</b> com foco em autoridade de marca e estética.</p>
+      <a href="https://xshark-sistemas.vercel.app/">🔗 Visualizar Projeto</a>
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/PROJETO-ECO%20MASTER-blue?style=for-the-badge&logo=construction" />
+      <p><b>Site Institucional Industrial</b> focado em catálogo de produtos e geração de leads.</p>
+      <a href="https://eco-master-equipamentos.vercel.app/">🔗 Visualizar Projeto</a>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ O que ofereço como Freelancer:
+* **Landing Pages de Alta Conversão:** Estruturas focadas em vendas e captura de leads.
+* **Sites Institucionais:** Presença digital sólida com foco em SEO e performance.
+* **Design Responsivo:** Sites que funcionam perfeitamente em qualquer dispositivo (Mobile First).
+* **Consultoria Técnica:** Apoio na escolha de tecnologias e infraestrutura (Vercel, Git, Domínios).
+
+---
 
 <p align="left">
   <a href="https://git.io/typing-svg">
