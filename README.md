@@ -49,6 +49,8 @@ Nesta seção, destaco projetos onde aplico **Engenharia de Prompt** e IA para o
 
 Além dos meus estudos, atuo no desenvolvimento de soluções sob medida para empresas e empreendedores, focando em performance, UI/UX e resultados:
 
+[![carolinarlima/xshark-sistemas](https://github-readme-stats.vercel.app/api/pin/?username=carolinarlima&repo=xshark-sistemas&theme=dracula&show_owner=true)](https://github.com/carolinarlima/xshark-sistemas)
+
 <table border="0">
   <tr>
     <td width="50%">
