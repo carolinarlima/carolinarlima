@@ -53,12 +53,12 @@ Além dos meus estudos, atuo no desenvolvimento de soluções sob medida para em
     <td width="50%">
       <img src="https://img.shields.io/badge/PROJETO-XSHARK%20SISTEMAS-black?style=for-the-badge&logo=shark" />
       <p><b>Landing Page Corporativa</b> com foco em autoridade de marca e estética.</p>
-      <a href="https://xshark-sistemas.vercel.app/">🔗 Visualizar Projeto</a>
+      <a href="https://xsharksistemas.com.br/">🔗 Visualizar Projeto</a>
     </td>
     <td width="50%">
       <img src="https://img.shields.io/badge/PROJETO-ECO%20MASTER-blue?style=for-the-badge&logo=construction" />
       <p><b>Site Institucional Industrial</b> focado em catálogo de produtos e geração de leads.</p>
-      <a href="https://eco-master-equipamentos.vercel.app/">🔗 Visualizar Projeto</a>
+      <a href="https://ecomasterequipamentos.com.br/">🔗 Visualizar Projeto</a>
     </td>
   </tr>
 </table>
